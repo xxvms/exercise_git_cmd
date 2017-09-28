@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/exercise_git_cmd.dir/main.cpp.o  -o exercise_git_cmd 
